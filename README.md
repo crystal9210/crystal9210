@@ -3,7 +3,7 @@
 
 
 
-## About Me
+## ◇About Me
 
 
 ### 1. Hi! My handle name is crystal9210 , and I'm a self-taught software developer .
@@ -28,17 +28,17 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
 
-## Programming Languages
+## ◇Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,java,go,js,ts,py,cpp,c" /> <br /><br />
 
-## Frameworks and Library
+## ◇Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,spring,django,tailwind" /> 
 
 others:java swing, go gin.
 
 
-## DB and Dev Tools etc
+## ◇Other Dev Tools 
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,git,github,vscode,ubuntu,firebase,nginx,vercel" /> <br /><br />
