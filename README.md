@@ -6,15 +6,17 @@
 
 ### 2. I first came into contact with computers in May of my first year of college, and I have been self-taught in the IT area, including programming, for 1-2 years.
 
+### 3.more details: I am interested in and studying a wide range of fields including low layers, security, software development in general, AI, data science, computer science, etc.
 
-### 3. my vision:
+
+### 4. my vision:
 
 I would like to become a technician who can acquire a high level of expertise, including in other fields,
 
 on the premise of advanced technical skills, and on top of that, I would like to be able to work in a cooperative manner with those around me.
 
 
-### 3. My favorite langage : 
+### 5. My favorite langage : 
 
 <img src="https://skillicons.dev/icons?i=go" /> <br /><br />
 
