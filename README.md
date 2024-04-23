@@ -26,7 +26,9 @@ on the premise of advanced technical skills, and on top of that, I would like to
 ## Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,spring,django,tailwind" /> 
-<img src="https://github.com/gin-gonic/logo/blob/master/color.svg"/><br /><br />
+
+others:java swing, go gin.
+
 
 ## DB and Dev Tools etc
 
