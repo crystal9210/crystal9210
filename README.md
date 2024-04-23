@@ -1,7 +1,7 @@
 # About Me
 
 
-### 1. Hi! My handle name is crystal9210 , a self-taught software developer .
+### 1. Hi! My handle name is crystal9210 , and I'm a self-taught software developer .
 
 
 ### 2. I first came into contact with computers in May of my first year of college, and I have been self-taught in the IT area, including programming, for 1-2 years.
