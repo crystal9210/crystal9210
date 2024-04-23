@@ -34,4 +34,4 @@ others:java swing, go gin.
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,git,github,vscode,ubuntu,firebase,nginx,vercel,postman" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,git,github,vscode,ubuntu,firebase,nginx,vercel" /> <br /><br />
