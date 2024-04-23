@@ -9,7 +9,7 @@
 ### 1. Hi,there!👋 I'm Sekiyu , a self-taught software developer , and a 3rd-year undergraduate.
 
 
-### 2. I first came into contact with computers in May of my first year of college, and I have been self-taught in the IT area, including programming, for 1-2 years.
+### 2. I first came into contact with computers in May of my first year of college (I did not do well in class at first lol) and I'm not good at learning about this field , but I've been self-taught in the IT area, including programming, for 1-2 years .
 
 ### 3.more details: I am interested in and enthusiastically studying a wide range of fields including low layers, security, software development in general, AI, data science, computer science, competitive programming , private service dev etc.
 
