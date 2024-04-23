@@ -17,7 +17,7 @@ on the premise of advanced technical skills, and on top of that, I would like to
 ### 3. My favorite langage : <img src="https://skillicons.dev/icons?i=go" /> <br /><br />
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
