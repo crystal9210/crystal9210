@@ -14,7 +14,9 @@ I would like to become a technician who can acquire a high level of expertise, i
 on the premise of advanced technical skills, and on top of that, I would like to be able to work in a cooperative manner with those around me.
 
 
-### 3. My favorite langage : <img src="https://skillicons.dev/icons?i=go" /> <br /><br />
+### 3. My favorite langage : 
+
+<img src="https://skillicons.dev/icons?i=go" /> <br /><br />
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
