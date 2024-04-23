@@ -21,10 +21,6 @@
 #### 2. work with others , and I'll repect them , as a contribution to society .
 
 
-### 5. My favorite langage : 
-
-<img src="https://skillicons.dev/icons?i=go" /> <br /><br />
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
 
