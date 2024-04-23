@@ -6,7 +6,7 @@
 ## ◇About Me
 
 
-### 1. Hi! I'm Sekiyu , a self-taught software developer .
+### 1. Hi,there!👋 I'm Sekiyu , a self-taught software developer , and a 3rd-year undergraduate.
 
 
 ### 2. I first came into contact with computers in May of my first year of college, and I have been self-taught in the IT area, including programming, for 1-2 years.
