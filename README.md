@@ -11,9 +11,9 @@
 
 ### 4. my vision:
 
-I would like to become a technician who can acquire a high level of expertise, including in other fields,
+#### 1 .acquire a high level of expertise, including in other fields, on the premise of advanced technical skills, 
 
-on the premise of advanced technical skills, and on top of that, I would like to be able to work in a cooperative manner with those around me.
+#### 2. work with others , and I'll repect them , as a contribution to society .
 
 
 ### 5. My favorite langage : 
