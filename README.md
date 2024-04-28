@@ -14,13 +14,6 @@
 ### 3.more details: I am interested in and enthusiastically studying a wide range of fields including low layers, security, software development in general, AI, data science, computer science, competitive programming , private service dev etc.
 
 
-### 4. my vision:
-
-#### 1 .acquire a high level of expertise, including in other fields, on the premise of advanced technical skills, 
-
-#### 2. work with others , and I'll repect them , as a contribution to society .
-
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
 
