@@ -15,7 +15,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=crystal9210&show_icons=true&locale=en&layout=compact)
+[![Sekiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal9210&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystal9210&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
 ## ◇Programming Languages
 
