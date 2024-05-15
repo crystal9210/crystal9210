@@ -21,15 +21,26 @@
 
 ## ◇Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,java,go,js,ts,py,cpp,c" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,java,go,js,ts,py,php,cpp,c" /> <br /><br />
+
+others: assemply
+
 
 ## ◇Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,spring,django,tailwind" /> 
 
-others:java swing, go gin.
+others:java swing, go gin, python streamlit .
 
 
 ## ◇Other Dev Tools 
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,docker,git,github,vscode,ubuntu,firebase,nginx,vercel" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,redis,nginx,docker,git,github,vscode,ubuntu,firebase,vercel" /> <br /><br />
+
+
+others: supabase, drizzle etc.
+
+
+## ◇API Frameworks
+
+restful , grpc , graphql
