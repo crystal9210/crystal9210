@@ -30,7 +30,7 @@ others: assemply
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,spring,django,tailwind" /> 
 
-others:java swing, go gin, python streamlit .
+others:java swing, go gin, go echo , python streamlit .
 
 
 ## ◇Other Dev Tools 
