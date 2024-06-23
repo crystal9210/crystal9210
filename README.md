@@ -38,7 +38,7 @@ others:java swing, go gin, go echo , python streamlit .
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,prisma,redis,nginx,docker,git,github,vscode,ubuntu,firebase,vercel" /> <br /><br />
 
 
-others: supabase, drizzle etc.
+others: supabase, drizzle, aws, render etc.
 
 
 ## ◇API Frameworks
