@@ -1,6 +1,4 @@
 
-<br/>
-
 ## I'm on my way for the best I can be.
 
 ## about
