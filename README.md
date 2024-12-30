@@ -3,7 +3,7 @@
 
 ## about
 
-I first touched a PC in 2022 and have been primarily self-taught since then.
+I first touched a PC in 2022 and have been mainly self-taught since then.
 
 I have spent about 12-40 hours each day.
 
