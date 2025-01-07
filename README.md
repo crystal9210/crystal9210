@@ -5,11 +5,6 @@
 
 I first touched a PC in 2022 and have been mainly self-taught since then.
 
-I have spent about 12-40 hours each day.
-
-I promised myself in the past that I would never give up due to lack of ability when I need to someday, and that's my guideline to the present day and will be for the future.
-
-That's it.
 <br/>
 
 [![Sekiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystal9210&theme=vue-dark&show_icons=true)](https://github.com/crystal9210/github-readme-stats)
