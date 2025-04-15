@@ -37,8 +37,6 @@ others:java swing, go gin, go echo , python streamlit and many more.
 
 others: supabase, drizzle, aws, render, gcp, kong, wireshark, and any more.
 
-(Being exposed to a lot of technology is not really that important.)
-
 
 ## ◇API Frameworks
 
