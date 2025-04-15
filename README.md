@@ -1,6 +1,3 @@
-
-## I'm on my way for the best I can be.
-
 ## about
 
 I first touched a PC in 2022 and have been mainly self-taught since then.
